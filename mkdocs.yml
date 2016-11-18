@@ -9,3 +9,4 @@ pages:
 - Инструменты: INS_01_Team_Instruments.md
 - Выпуск постов: INS_05_Posts.md
 theme: readthedocs
+extra_css: [extra.css]

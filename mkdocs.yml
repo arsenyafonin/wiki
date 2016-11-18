@@ -1,0 +1,8 @@
+site_name: Soft Culture Guidelines
+pages:
+- Home: index.md
+- About: about.md
+- ChannelKit: INS_04_ChannelKit.md
+- Инструменты: INS_01_Team_Instruments.md
+- Выпуск постов: INS_05_Posts.md
+theme: readthedocs

@@ -1,3 +1,11 @@
 h3 {
   color: black;
 }
+
+h2 {
+  font-size: 140%;
+}
+
+.wy-side-nav-search {
+  background-color: #343131;
+}

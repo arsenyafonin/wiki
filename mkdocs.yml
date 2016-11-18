@@ -1,6 +1,6 @@
-site_name: Soft Culture Guidelines
+site_name: Soft Culture Wiki
 pages:
-- Home: index.md
+- Getting started: index.md
 - About: about.md
 - ChannelKit: INS_04_ChannelKit.md
 - Инструменты: INS_01_Team_Instruments.md

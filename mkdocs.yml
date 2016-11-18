@@ -3,7 +3,6 @@ pages:
 - Getting started: index.md
 - Instruments:
     - 'ChannelKit': 'ins_04_channelkit.md'
-    - Beegit:
 - About: about.md
 - Инструменты: INS_01_Team_Instruments.md
 - Выпуск постов: INS_05_Posts.md

@@ -6,6 +6,9 @@ h3 {
 
 .wy-side-nav-search {
   background-color: #343131;
+}
+
+.wy-side-nav-search input[type=text] {
   border-color: #343131 !important;
 }
 

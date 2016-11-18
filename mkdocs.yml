@@ -1,9 +1,9 @@
 site_name: Soft Culture Wiki
 pages:
 - Getting started: index.md
-- Instruments:
+- Instruments: 'INS_01_Team_Instruments.md'
     - 'ChannelKit': 'ins_04_channelkit.md'
-    - 'Beegit': 'ins_04_channelkit.md'
+    - 'Beegit': 'INS_05_Posts.md'
 - About: about.md
 - Инструменты: INS_01_Team_Instruments.md
 - Выпуск постов: INS_05_Posts.md

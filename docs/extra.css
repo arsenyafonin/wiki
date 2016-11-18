@@ -7,3 +7,7 @@ h3 {
 .wy-side-nav-search {
   background-color: #343131;
 }
+
+hr {
+  border-top-width: 0;
+}

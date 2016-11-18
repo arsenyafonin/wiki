@@ -2,7 +2,7 @@ site_name: Soft Culture Wiki
 pages:
 - Getting started: index.md
 - About: about.md
-- ChannelKit: INS_04_ChannelKit.md
+- ChannelKit: ins_04_channelkit.md
 - Инструменты: INS_01_Team_Instruments.md
 - Выпуск постов: INS_05_Posts.md
 theme: readthedocs

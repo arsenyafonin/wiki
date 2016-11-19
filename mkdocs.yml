@@ -2,9 +2,10 @@ site_name: Soft Culture Wiki
 pages:
 - Getting started: index.md
 - Instruments:
-    - 'ChannelKit': 'ins_04_channelkit.md'
+    - ChannelKit: 'ins_04_channelkit.md'
 - Task groups:
     - Meetings: 'ins_07_meetings.md'
+    - Before: 'ins_08_before.md'
 - About: about.md
 - Инструменты: INS_01_Team_Instruments.md
 - Выпуск постов: INS_05_Posts.md

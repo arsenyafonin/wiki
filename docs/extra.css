@@ -15,3 +15,7 @@ h3 {
 hr {
   border-top-width: 0;
 }
+
+.section ul {
+  margin: -14px 0 10px 0 !important;
+}

@@ -1,15 +1,17 @@
 site_name: Soft Culture Wiki
 pages:
 - Getting started: index.md
-- Instruments:
+- INSTRUMENTS:
     - Wrike: 'ins_10_wrike.md'
     - ChannelKit: 'ins_04_channelkit.md'
     - Others: 'INS_01_Team_Instruments.md'
-- Task groups:
+- TASK GROUPS:
     - Meetings: 'ins_07_meetings.md'
     - Before: 'ins_08_before.md'
     - After: 'ins_09_after.md'
+- RULES:
+    - **Выпуск постов: 'INS_05_Posts.md'
 - About: about.md
-- Выпуск постов: INS_05_Posts.md
+
 theme: readthedocs
 extra_css: [extra.css]

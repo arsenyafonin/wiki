@@ -10,7 +10,7 @@ pages:
     - Before: 'ins_08_before.md'
     - After: 'ins_09_after.md'
 - RULES:
-    - Выпуск постов (устар.): 'INS_05_Posts.md'
+    - Выпуск постов (НЕАКТУАЛЬНО!): 'INS_05_Posts.md'
 - About: about.md
 
 theme: readthedocs

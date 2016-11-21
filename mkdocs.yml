@@ -9,6 +9,7 @@ pages:
     - Meetings: 'ins_07_meetings.md'
     - Before: 'ins_08_before.md'
     - After: 'ins_09_after.md'
+    - Promo: 'ins_11_promo.md'
 - RULES:
     - Выпуск постов (НЕАКТУАЛЬНО!): 'INS_05_Posts.md'
 - About: about.md

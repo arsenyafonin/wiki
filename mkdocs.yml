@@ -4,14 +4,14 @@ pages:
 - INSTRUMENTS:
     - Wrike: 'ins_10_wrike.md'
     - ChannelKit: 'ins_04_channelkit.md'
-    - Others: 'INS_01_Team_Instruments.md'
+    - Others: 'ins_01_team_instruments.md'
 - TASK GROUPS:
     - Meetings: 'ins_07_meetings.md'
     - Before: 'ins_08_before.md'
     - After: 'ins_09_after.md'
     - Promo: 'ins_11_promo.md'
 - RULES:
-    - Выпуск постов (НЕАКТУАЛЬНО!): 'INS_05_Posts.md'
+    - Выпуск постов: 'ins_05_posts.md'
 - About: about.md
 
 theme: readthedocs

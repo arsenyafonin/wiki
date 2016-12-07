@@ -19,3 +19,7 @@ hr {
 .section ul {
   margin-top: -16px !important;
 }
+
+.section ul ul {
+  margin-top: 0 !important;
+}

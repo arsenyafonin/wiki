@@ -1,4 +1,4 @@
-## Что такое ChannelKit?
+### Что такое ChannelKit?
 
 Канал на ChannelKit – это набор ссылок, файлов и других материалов, оформленных в виде «карточек» на специальном сервисе [ChannelKit](https://www.channelkit.com).
 

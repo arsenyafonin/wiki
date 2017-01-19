@@ -15,6 +15,7 @@ pages:
     - Выпуск постов: 'ins_05_posts.md'
     - Правила хранения файлов: 'ins_13_storage_tasks.md'
     - Подготовка к занятию: 'ins_12_office_manager.md'
+    - Обработка работ студентов: 'ins_15_students_works.md'
 - About: about.md
 
 theme: readthedocs

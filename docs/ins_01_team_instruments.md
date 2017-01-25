@@ -29,3 +29,8 @@
 
 ## FileMaker Pro
 FileMaker Pro — это программа для создание и работы с базами данных. На образовательной площадке мы используем FileMaker для работы с базой клиентов и базой книг. Базовые уроки по работе с FileMaker для пользователя (не для разработчика) мы собрали вот [здесь](https://s3.eu-central-1.amazonaws.com/softculture/exports/SC__Lynda_FileMaker_Pro_14_Essential_Training.zip).
+
+***
+
+[![F](https://s3.eu-central-1.amazonaws.com/softculture/exports/dashboard-01.svg)](http://softculture.cc/dashboard)
+## Dashboard

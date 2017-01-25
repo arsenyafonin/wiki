@@ -4,9 +4,8 @@
 
 Вот основные инструкции, которые будут интересны кураторам:
 
-| [![Foo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)](http://softculture.cc/dashboard) | Link 2 | Link 3   |
-|-----------|--------|----------|
-| Dashboard | Wiki   | Airtable |
+| [![Foo](https://s3.eu-central-1.amazonaws.com/softculture/exports/dashboard-01.svg)](http://softculture.cc/dashboard) | Link 2 | Link 3   |
+| [Dashboard](http://softculture.cc/dashboard) | Wiki   | Airtable |
 
 
 * [Meetings tasks](ins_07_meetings/)

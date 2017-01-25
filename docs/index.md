@@ -4,6 +4,8 @@
 
 Вот основные инструкции, которые будут интересны кураторам:
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 * [Meetings tasks](ins_07_meetings/)
 * [Before tasks](ins_08_before/)
 * [After tasks](ins_09_after/)

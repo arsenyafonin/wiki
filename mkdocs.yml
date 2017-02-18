@@ -20,4 +20,4 @@ pages:
 
 theme: readthedocs
 extra_css: [extra.css]
-theme_dir: custom_theme
+extra_javascript: [passchecker_readthedocs.js]

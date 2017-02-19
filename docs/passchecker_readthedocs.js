@@ -1,10 +1,12 @@
-﻿/* coding: utf-8 */
+/* coding: utf-8 */
 
 var helplist = [];
 
 /*Доступные пароль*/
 helplist.push("master");
-helplist.push("arseny@softculture.cc");
+helplist.push("rtd"); /*Арсений*/
+helplist.push("9771002aurov"); /*Витя*/
+helplist.push("2508475"); /*Вася*/
 
 /*Проверка HTML5 Storage*/
 if (typeof(Storage) !== "undefined") {
@@ -31,7 +33,7 @@ if (login != 1) {
   } else {
 
     if (helplist.indexOf(getin.toLowerCase()) == -1) {
-      var r = confirm("Пароль введен неверно или доступ к wiki был закрыт*.\nЧтобы попробовать еще раз, нажмите «ОК».\n\n*Для возобновления доступа к wiki пишите нам на почту:\nhello@softculture.cc\n\n");
+      var r = confirm("Пароль введен неверно или доступ к wiki был закрыт.\nЧтобы попробовать еще раз, нажмите «ОК».\n\nДля получения пароля или возобновления доступа свяжитесь с администратором\n\n");
       if (r == true) {
         location.reload();
       } else {

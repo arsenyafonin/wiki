@@ -33,7 +33,7 @@ if (login != 1) {
 
   } else {
 
-    if (helplist.indexOf(getin.toLowerCase()) == -1) {
+    if (helplist.indexOf(getin) == -1) {
       var r = confirm("Пароль введен неверно или доступ к wiki был закрыт.\nЧтобы попробовать еще раз, нажмите «ОК».\n\nДля получения пароля или возобновления доступа свяжитесь с администратором\n\n");
       if (r == true) {
         location.reload();

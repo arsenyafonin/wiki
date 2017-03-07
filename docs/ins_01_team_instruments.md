@@ -32,5 +32,5 @@ FileMaker Pro — это программа для создание и рабо�
 
 ***
 
-[![F](https://s3.eu-central-1.amazonaws.com/softculture/exports/dashboard-01.svg)](http://softculture.cc/dashboard)
-## Dashboard
+## [Dashboard](http://softculture.cc/dashboard)
+[![fff](https://s3.eu-central-1.amazonaws.com/softculture/exports/dashboard-01.svg)](http://softculture.cc/dashboard)

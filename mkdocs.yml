@@ -5,6 +5,7 @@ pages:
     - Wrike: 'ins_10_wrike.md'
     - ChannelKit: 'ins_04_channelkit.md'
     - Airtable: 'ins_11_airtable.md'
+    - Хранилище GD и S3: 'ins_16_storage_structure.md'
     - Others: 'ins_01_team_instruments.md'
 - TASK GROUPS:
     - Meetings: 'ins_07_meetings.md'

@@ -17,6 +17,7 @@ pages:
     - Правила хранения файлов: 'ins_13_storage_tasks.md'
     - Подготовка к занятию: 'ins_12_office_manager.md'
     - Обработка работ студентов: 'ins_15_students_works.md'
+    - Обработка новых записей: 'ins_14_submissions.md'
 - About: about.md
 
 theme: readthedocs

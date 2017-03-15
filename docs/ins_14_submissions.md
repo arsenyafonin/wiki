@@ -55,4 +55,4 @@
 Группа заполнена, мест нет. Студенту объясняется ситуация с набором группы и предлагается быть занесенным в список ожидания (000) на случай, что кто-то из уже набранной группы откажется от прохождения занятий. Если вдруг освобождается место, то мы сразу же переносим его из листа ожидания в активную группу, оповещаем его по телефону и высылаем все обязательные письма (запись в группу, оплата и reminder). 
 
 Для удобства мы сделали схему, на которой можно проследить последовательность действий при обработке новой записи: 
-[![Схема обработки новой записи]((https://s3.eu-central-1.amazonaws.com/softculture/exports/img/submissions-squashed.png)](https://s3.eu-central-1.amazonaws.com/softculture/exports/img/submissions-squashed.png)
+[![Схема обработки новой записи](https://s3.eu-central-1.amazonaws.com/softculture/exports/img/submissions-squashed.png)](https://s3.eu-central-1.amazonaws.com/softculture/exports/img/submissions-squashed.png)

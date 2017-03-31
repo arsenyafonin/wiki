@@ -15,6 +15,8 @@
 **- 1 -**  
 Все рабочие файлы во время работы над курсом куратор хранит в личной папке на *GD*: `SC_work\[Имя куратора]`
 
+![curator folder structure](https://s3.eu-central-1.amazonaws.com/softculture/exports/img/curator_folder_structure.png)
+
 **- 2 -**  
 
 * K1.5: Собрать и загрузить в хранилище все материалы продвижения `Куратор`

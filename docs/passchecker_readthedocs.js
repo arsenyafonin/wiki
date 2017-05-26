@@ -12,6 +12,7 @@ helplist.push("gogen2709"); /*Руслан*/
 helplist.push("0112358"); /*Сергей*/
 helplist.push("kbstrelka"); /*Саша*/
 helplist.push("hetmetro"); /*Саша*/
+helplist.push("milanmilan"); /*Милан*/
 
 /*Проверка HTML5 Storage*/
 if (typeof(Storage) !== "undefined") {

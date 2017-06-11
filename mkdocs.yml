@@ -19,6 +19,7 @@ pages:
     - Обработка работ студентов: 'ins_15_students_works.md'
     - Обработка новых записей: 'ins_14_submissions.md'
     - Командные встречи: 'ins_17_meetings.md'
+    - Сервисы куратора: 'ins_20_services.md'
 - About: about.md
 
 theme: readthedocs

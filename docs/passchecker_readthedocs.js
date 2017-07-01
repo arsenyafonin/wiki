@@ -4,15 +4,16 @@ var helplist = [];
 
 /*Доступные пароль*/
 helplist.push("w14february"); /*Арсений*/
-/*helplist.push("9771002aurov"); /*Витя*/*/
+/*helplist.push("9771002aurov"); Витя*/
 helplist.push("2508475"); /*Вася*/
-/*helplist.push("Y7da2"); /*Настя*/*/
-/*helplist.push("kirberezhnov@gmail.com"); /*Кирилл*/*/
+/*helplist.push("Y7da2"); Настя*/
+/*helplist.push("kirberezhnov@gmail.com"); Кирилл*/
 helplist.push("gogen2709"); /*Руслан*/
 helplist.push("0112358"); /*Сергей*/
 helplist.push("kbstrelka"); /*Саша*/
 helplist.push("hetmetro"); /*Саша*/
 helplist.push("milanmilan"); /*Милан*/
+helplist.push("masha"); /*Маша*/
 
 /*Проверка HTML5 Storage*/
 if (typeof(Storage) !== "undefined") {

@@ -38,3 +38,13 @@ hr {
 .md-footer-nav {
   margin-top: 100px;
 }
+
+/* Disqus Styles */
+
+.nav-secondary {
+  display: none !important;
+}
+
+.disqus-footer__wrapper {
+  display: none !important;
+}

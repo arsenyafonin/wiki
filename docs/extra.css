@@ -1,25 +1,13 @@
-@import url("//hello.myfonts.net/count/323616#.css");
-
-
-@font-face {font-family: 'Circe-Light';src: url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_0_0.eot');
-			src: url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_0_0.eot?#iefix') format('embedded-opentype'),
-			url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_0_0.woff2') format('woff2'),
-			url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_0_0.woff') format('woff'),
-			url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_0_0.ttf') format('truetype');}
-
-@font-face {font-family: 'Circe-ExtraBold';src: url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_1_0.eot');
-			src: url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_1_0.eot?#iefix') format('embedded-opentype'),
-			url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_1_0.woff2') format('woff2'),
-			url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_1_0.woff') format('woff'),
-			url('https://s3.eu-central-1.amazonaws.com/softculture/exports/fonts/323616_1_0.ttf') format('truetype');}
-
+/*
 h3 {
   color: black;
   font-size: 135%;
   font-weight: 700 !important;
   font-family: Circe-ExtraBold, sans-serif !important;
 }
+*/
 
+/*
 .wy-side-nav-search {
   background-color: #343131;
 }
@@ -27,6 +15,7 @@ h3 {
 .wy-side-nav-search input[type=text] {
   border-color: #343131 !important;
 }
+
 
 hr {
   border-top-width: 0;
@@ -39,3 +28,4 @@ hr {
 .section ul ul {
   margin-top: 0 !important;
 }
+*/

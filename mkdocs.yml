@@ -4,18 +4,18 @@ site_dir: docs
 
 pages:
 - Getting started: index.md
-- INSTRUMENTS:
+- Инструменты:
     - Wrike: 'ins_10_wrike.md'
     - ChannelKit: 'ins_04_channelkit.md'
     - Airtable: 'ins_11_airtable.md'
     - Хранилище GD и S3: 'ins_16_storage_structure.md'
     - Others: 'ins_01_team_instruments.md'
-- TASK GROUPS:
+- Группы задач:
     - Meetings: 'ins_07_meetings.md'
     - Before: 'ins_08_before.md'
     - After: 'ins_09_after.md'
     - Promo: 'ins_11_promo.md'
-- RULES:
+- Правила:
     - Выпуск постов: 'ins_05_posts.md'
     - Правила хранения файлов: 'ins_13_storage_tasks.md'
     - Подготовка к занятию: 'ins_12_office_manager.md'
@@ -25,6 +25,6 @@ pages:
     - Сервисы куратора: 'ins_20_services.md'
 - About: about.md
 
-theme: readthedocs
+theme: 'material'
 extra_css: [extra.css]
 extra_javascript: [passchecker_readthedocs.js]

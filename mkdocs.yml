@@ -1,4 +1,7 @@
 site_name: Wiki Софт Культуры
+docs_dir: markdown
+site_dir: docs
+
 pages:
 - Getting started: index.md
 - INSTRUMENTS:

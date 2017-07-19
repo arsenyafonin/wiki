@@ -25,3 +25,6 @@
 Так как вес .pdf-файла зависит от кол-ва страниц, вес одной страницы (в среднем) не должен превышать 0.5 Мб. Сжать более объемный .pdf-файл можно с помощью онлайн-утилиты [ilovepdf](http://www.ilovepdf.com/compress_pdf). Уровень сжатия — Recommended Compression Level.
 
 Для проверки pdf-документов необходимо использовать командную утилиту ['test_pdf'](https://s3.eu-central-1.amazonaws.com/softculture/exports/zip/test_pdf.zip) для Windows.
+
+!!! warning
+    Помимо 'test_images' и 'test_pdf' с июля 2017-го года введен скрипт ['test_structure'](https://s3.eu-central-1.amazonaws.com/softculture/exports/zip/test_structure.zip), однако руководство по нему еще не документировано. Работоспособность скрпита на Mac OS также не проверена.

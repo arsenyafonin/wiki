@@ -3,7 +3,8 @@ docs_dir: markdown
 site_dir: docs
 
 pages:
-- Getting started: index.md
+- Последние обновления: 'index.md'
+- Введение: 'intro.md'
 - Инструменты:
     - Wrike: 'ins_10_wrike.md'
     - ChannelKit: 'ins_04_channelkit.md'
@@ -23,16 +24,20 @@ pages:
     - Обработка новых записей: 'ins_14_submissions.md'
     - Командные встречи: 'ins_17_meetings.md'
     - Сервисы куратора: 'ins_20_services.md'
-- About: about.md
+- О площадке: 'about.md'
 
 # Documentation and theme
 theme: 'material'
 
 # Options
+markdown_extensions:
+- admonition
+
 extra:
   palette:
     primary: 'teal'
     accent: 'teal'
+  disqus: 'disqus_softculture'
 
 extra_css: [extra.css]
 extra_javascript: [passchecker_readthedocs.js]

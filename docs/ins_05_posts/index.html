@@ -142,8 +142,20 @@
 
 
   <li class="md-nav__item">
-    <a href=".." title="Getting started" class="md-nav__link">
-      Getting started
+    <a href=".." title="Последние обновления" class="md-nav__link">
+      Последние обновления
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../intro/" title="Введение" class="md-nav__link">
+      Введение
     </a>
   </li>
 
@@ -155,13 +167,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
     
-    <label class="md-nav__link" for="nav-2">
+    <label class="md-nav__link" for="nav-3">
       Инструменты
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-2">
+      <label class="md-nav__title" for="nav-3">
         Инструменты
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -239,13 +251,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4">
     
-    <label class="md-nav__link" for="nav-3">
+    <label class="md-nav__link" for="nav-4">
       Группы задач
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-3">
+      <label class="md-nav__title" for="nav-4">
         Группы задач
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -313,13 +325,13 @@
 
   <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" checked>
     
-    <label class="md-nav__link" for="nav-4">
+    <label class="md-nav__link" for="nav-5">
       Правила
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-4">
+      <label class="md-nav__title" for="nav-5">
         Правила
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -417,6 +429,12 @@
       
       
       
+        <li class="md-nav__item">
+          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
+            Comments
+          </a>
+        </li>
+      
     </ul>
   
 </nav>
@@ -507,8 +525,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../about/" title="About" class="md-nav__link">
-      About
+    <a href="../about/" title="О площадке" class="md-nav__link">
+      О площадке
     </a>
   </li>
 
@@ -595,6 +613,12 @@
       
       
       
+        <li class="md-nav__item">
+          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
+            Comments
+          </a>
+        </li>
+      
     </ul>
   
 </nav>
@@ -622,6 +646,10 @@
 </ul>
 <p>Тексты постов на общие непрофессиональные темы пишутся СММ-менеджером. Тексты постов на темы, связанные с конкретным курсом пишутся куратором этого курса. Все тексты постов пишутся на <a href="https://beegit.com">Beegit</a> в проект <em>SC_ Posts</em> и отдаются на вычитку редактору или другому участнику команды путем изменения статуса текста на «Ожидает редактирования» и оповещением редактора. После утверждения автором полученных от редактора или другого участника правок текст и передается менеждеру социальных сетей. Факт утверждения текста автором отмечается изменением статуса на «Можно выпускать». В случае, если текст не утвержден и все еще требует доработки, возможности дальнейшее обращение к редактору по тому же принципу.</p>
 <h3 id="2">Шаг 2: Создание изображение</h3>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>В шаге 2 устаревшая инструкция. С мая 2017-го года изображения для поста делаются через форму запроса графическому дизайнеру.</p>
+</div>
 <ul>
 <li>Сделать изображение для поста <code>Графический дизайнер</code></li>
 </ul>
@@ -649,6 +677,22 @@
                 
               
               
+                
+                  <h2 id="__comments">Comments</h2>
+                  <div id="disqus_thread"></div>
+<script>
+  var disqus_config = function () {
+    this.page.url = "None";
+    this.page.identifier =
+      "None";
+  };
+  (function() {
+    var d = document, s = d.createElement("script");
+    s.src = "//disqus_softculture.disqus.com/embed.js";
+    s.setAttribute("data-timestamp", +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
                 
               
             </article>

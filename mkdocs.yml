@@ -37,7 +37,7 @@ extra:
   palette:
     primary: 'teal'
     accent: 'teal'
-  disqus: 'disqus_softculture'
+  disqus: 'softculture'
 
 extra_css: [extra.css]
 extra_javascript: [passchecker_readthedocs.js]

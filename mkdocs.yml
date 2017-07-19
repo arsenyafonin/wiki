@@ -25,6 +25,14 @@ pages:
     - Сервисы куратора: 'ins_20_services.md'
 - About: about.md
 
+# Documentation and theme
 theme: 'material'
+
+# Options
+extra:
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+
 extra_css: [extra.css]
 extra_javascript: [passchecker_readthedocs.js]

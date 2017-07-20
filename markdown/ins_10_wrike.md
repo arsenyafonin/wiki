@@ -2,9 +2,9 @@
 
 [Wrike](https://www.wrike.com) — командный Task Manager «Софт Культуры». В целом работа с Wrike достаточно интуитивна, однако есть несколько опций, которые не видны с первого взгляда. Для каждой из них мы подготовили отдельное видео:
 
-* [Создание собственных dashboard'ов](https://www.youtube.com/embed/UMe0lii02pI)
-* [Дублирование шаблонов проектов (Meetings, Before, After)](https://vimeo.com/194652819)
-* [Дублирование и перенос шаблона Promo задачи](https://vimeo.com/194652911)
+* [Создание собственных dashboard'ов](https://www.youtube.com/embed/UMe0lii02pI) `video`
+* [Дублирование шаблонов проектов (Meetings, Before, After)](https://vimeo.com/194652819) `video`
+* [Дублирование и перенос шаблона Promo задачи](https://vimeo.com/194652911) `video`
 * Интеграция задач из Wrike в Google Calendar:
     * [Инструкция](https://help.wrike.com/hc/en-us/articles/210324085-Calendar)
     * [Webcal-ссылка](webcal://www.wrike.com/ical/4fbad112271a4a57ac8c191dd3bbfe8b) на график постинга

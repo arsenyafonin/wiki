@@ -26,7 +26,7 @@ pages:
     - Командные встречи: 'ins_17_meetings.md'
     - Сервисы куратора: 'ins_20_services.md'
 - О площадке: 'about.md'
-- Правила Wiki: 'instructions.md'
+- Оформление Wiki: 'instructions.md'
 
 # Documentation and theme
 theme: 'material'

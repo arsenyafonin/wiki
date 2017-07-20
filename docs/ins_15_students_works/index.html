@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="ru" class="no-js">
   <head>
     
       <meta charset="utf-8">
@@ -95,13 +95,13 @@
   <label class="md-search__overlay" for="search"></label>
   <div class="md-search__inner">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" required placeholder="Search" accesskey="s" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <input type="text" class="md-search__input" name="query" required placeholder="Поиск" accesskey="s" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
       <label class="md-icon md-search__icon" for="search"></label>
       <button type="reset" class="md-icon md-search__icon" data-md-component="reset">close</button>
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="result" data-md-lang-search="">
+        <div class="md-search-result" data-md-component="result" data-md-lang-search="en, ru">
           <div class="md-search-result__meta" data-md-lang-result-none="No matching documents" data-md-lang-result-one="1 matching document" data-md-lang-result-other="# matching documents">
             Type to start searching
           </div>
@@ -400,7 +400,7 @@
   
   
   
-    <label class="md-nav__title" for="toc">Table of contents</label>
+    <label class="md-nav__title" for="toc">Навигация</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
@@ -447,8 +447,8 @@
       
       
         <li class="md-nav__item">
-          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
-            Comments
+          <a href="#__comments" title="Комментарии" class="md-nav__link md-nav__link--active">
+            Комментарии
           </a>
         </li>
       
@@ -512,6 +512,18 @@
   </li>
 
     
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../instructions/" title="Правила Wiki" class="md-nav__link">
+      Правила Wiki
+    </a>
+  </li>
+
+    
   </ul>
 </nav>
                   </div>
@@ -527,7 +539,7 @@
   
   
   
-    <label class="md-nav__title" for="toc">Table of contents</label>
+    <label class="md-nav__title" for="toc">Навигация</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
@@ -574,8 +586,8 @@
       
       
         <li class="md-nav__item">
-          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
-            Comments
+          <a href="#__comments" title="Комментарии" class="md-nav__link md-nav__link--active">
+            Комментарии
           </a>
         </li>
       
@@ -619,7 +631,7 @@
               
               
                 
-                  <h2 id="__comments">Comments</h2>
+                  <h2 id="__comments">Комментарии</h2>
                   <div id="disqus_thread"></div>
 <script>
   var disqus_config = function () {
@@ -654,7 +666,7 @@
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
-                  Previous
+                  Назад
                 </span>
                 Подготовка к занятию
               </span>
@@ -666,7 +678,7 @@
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
-                  Next
+                  Вперед
                 </span>
                 Обработка новых записей
               </span>
@@ -700,6 +712,20 @@
     
       <script src="../assets/javascripts/application-c35428f87f.js"></script>
       
+      
+        
+        <script src="../assets/javascripts/lunr/lunr.stemmer.support.js"></script>
+        
+          
+        
+          
+            
+            <script src="../assets/javascripts/lunr/lunr.ru.js"></script>
+          
+        
+        
+          <script src="../assets/javascripts/lunr/lunr.multi.js"></script>
+        
       
       <script>app.initialize({url:{base:".."}})</script>
       

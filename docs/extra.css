@@ -45,6 +45,14 @@ hr {
   margin: 0 .4em;
 }
 
+.md-typeset h4 {
+  margin-bottom: 0;
+}
+
+.admonition p {
+  margin-top: 0;
+}
+
 /* Custom admolition icons */
 
 /* Test: put '!!! video' in Markdown; */

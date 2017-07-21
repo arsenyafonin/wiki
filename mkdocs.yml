@@ -19,6 +19,7 @@ pages:
     - Promo: 'ins_11_promo.md'
 - Правила:
     - Выпуск постов: 'ins_05_posts.md'
+    - ~Выпуск постов 2.0: 'ins_05_posts_2.md'
     - Правила хранения файлов: 'ins_13_storage_tasks.md'
     - Подготовка к занятию: 'ins_12_office_manager.md'
     - Обработка работ студентов: 'ins_15_students_works.md'

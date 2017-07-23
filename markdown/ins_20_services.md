@@ -44,3 +44,7 @@ Telegram: на личный номер
 * SC: Design Posts
 * *Канал друзей СК*
 * *Каналы курсов*
+
+Facebook:
+
+* Группа [Soft Culture Team](https://www.facebook.com/groups/1166737503440858/)

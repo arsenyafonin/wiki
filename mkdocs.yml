@@ -36,7 +36,8 @@ theme_dir: 'theme'
 
 # Options
 markdown_extensions:
-- admonition
+  - admonition
+  - toc(permalink=true)
 
 extra:
   palette:

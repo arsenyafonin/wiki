@@ -398,6 +398,8 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
     
+      
+    
     
       <label class="md-nav__link md-nav__link--active" for="toc">
         Обработка работ студентов
@@ -411,48 +413,37 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
+  
   
     <label class="md-nav__title" for="toc">Навигация</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#_1" title="Правила обработки работ студентов" class="md-nav__link">
-    Правила обработки работ студентов
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
   <a href="#k22" title="K2.2: Собрать и обработать работы студентов" class="md-nav__link">
     K2.2: Собрать и обработать работы студентов
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#_2" title="Графический материал / Изображения" class="md-nav__link">
     Графический материал / Изображения
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#_3" title="Многостраничный документ" class="md-nav__link">
     Многостраничный документ
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#pdf" title="Сжатие PDF" class="md-nav__link">
     Сжатие PDF
   </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
@@ -562,48 +553,37 @@
 <nav class="md-nav md-nav--secondary">
   
   
+    
+  
   
     <label class="md-nav__title" for="toc">Навигация</label>
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#_1" title="Правила обработки работ студентов" class="md-nav__link">
-    Правила обработки работ студентов
-  </a>
-  
-    <nav class="md-nav">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
   <a href="#k22" title="K2.2: Собрать и обработать работы студентов" class="md-nav__link">
     K2.2: Собрать и обработать работы студентов
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#_2" title="Графический материал / Изображения" class="md-nav__link">
     Графический материал / Изображения
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#_3" title="Многостраничный документ" class="md-nav__link">
     Многостраничный документ
   </a>
   
 </li>
-        
-          <li class="md-nav__item">
+      
+        <li class="md-nav__item">
   <a href="#pdf" title="Сжатие PDF" class="md-nav__link">
     Сжатие PDF
   </a>
-  
-</li>
-        
-      </ul>
-    </nav>
   
 </li>
       
@@ -628,27 +608,30 @@
               
                 
                 
-                  <h1>Обработка работ студентов</h1>
-                
-                <h2 id="_1">Правила обработки работ студентов<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
-<h3 id="k22">K2.2: Собрать и обработать работы студентов<a class="headerlink" href="#k22" title="Permanent link">&para;</a></h3>
+                <h1 id="_1">Правила обработки работ студентов<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<p>Работы студентов собираются куратором в <em>promo</em> папку курса. В общем виде структура папок куратора описана в статье <a href="../ins_15_students_works/">«Правила хранения файлов»</a>. Для проверки структуры папок куратора необходимо воспользоваться утилитой <a href="https://s3.eu-central-1.amazonaws.com/softculture/exports/zip/test_structure.zip">'test_structure'</a>, документация к которой также описана в <a href="../ins_15_students_works/">«Правилах»</a>.</p>
+<div class="admonition warning">
+<p>Работоспособность скрипта 'test_structure' на Mac OS пока не проверена, однако все должно работать.</p>
+</div>
+<hr />
+<div class="admonition note">
+<h4 id="k22">K2.2: Собрать и обработать работы студентов<a class="headerlink" href="#k22" title="Permanent link">&para;</a></h4>
 <p><code>Куратор</code></p>
+</div>
 <p>В большинстве курсов по окончании не остается какого-то конкретного результирующего материала, отличающегося от студента к студенту. Однако тогда, когда такой материал присутствует, будь то графические работы или портфолио, его обязательно надо собирать и сохранять в архиве курса. Ниже представлены требования к результирующему материалу. Работы, не подходящие под эти требования необходимо преобразовать.</p>
-<p>Название работ любого формата в хранилище должны быть иметь вид: <code>L{Номер дня}_ {Имя Фамилия} {Номер работы}</code>, например: <code>L5_ Дарья Сидорова 1.jpg</code>. Очередность имени и фамилии в названии не принципиальна. Если автор работы неизвестен, можно использовать <em>Unknown</em> вместо <em>{Имя Фамилия}</em>. В случае, если работа была доделана после окончания курса, вместо префикса <em>L{Номер дня}</em> нужно использовать префикс <em>F</em>, например: <code>F_ Дарья Сидорова 1.jpg</code>.</p>
+<p>Название работ любого формата в хранилище должны быть иметь вид:<br />
+<code>L{Номер дня}_ {Имя Фамилия} {Номер работы}</code>, например: <code>L5_ Дарья Сидорова 1.jpg</code>. Очередность имени и фамилии в названии не принципиальна. Если автор работы неизвестен, можно использовать <em>Unknown</em> вместо <em>{Имя Фамилия}</em>. В случае, если работа была доделана после окончания курса, вместо префикса <em>L{Номер дня}</em> нужно использовать префикс <em>F</em>, например: <code>F_ Дарья Сидорова 1.jpg</code>.</p>
 <p>Для автоматичесого переименования файлов во избежание ошибок рекомендуется использовать команду <em>Batch Rename</em> в <em>Adobe Bridge</em>.</p>
 <h3 id="_2">Графический материал / Изображения<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h3>
 <p>Все растровые изображение должны храниться в формате .jpg, оригинальные .psd-файлы не сохраняются. Максимальное разрешение изображения по длинной стороне — 2500 px для изображний с соотношением сторон близкому к 3:4, и 4000 px для изображений с соотношением сторон около 1:3. Уровень сжатия — 9 (High) или 10 (Maximum) в зависимости от веса файла, но ни в коем случае не максимальный (12). Цветое пространство — sRGB. Оптимальный вес для большинства изображений при заданных настройках — не более 1 Мб. Вес изображения должен быть близок к оптимальному и не должен превышать 4&nbsp;Мб.</p>
-<p>Для проверки файлов необходимо использовать командную утилиту <a href="https://s3.eu-central-1.amazonaws.com/softculture/exports/zip/test_images.zip">'test_images'</a> для Windows.</p>
+<p>Для проверки файлов необходимо использовать командную утилиту <a href="https://s3.eu-central-1.amazonaws.com/softculture/exports/zip/test_images.zip">'test_images'</a> для Windows и Mac OS.</p>
 <p>Векторные изображения должны храниться в двух форматах — .pdf и .ai, если документ создан в Adobe Illustrator. При сохранении формата .pdf из Adobe Illustrator должна быть отжата галочка Preserve Illustrator Editing Capabilities.</p>
 <h3 id="_3">Многостраничный документ<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
 <p>Все многостраничные документы хранятся в формате .pdf. Исходные файлы InDesign не сохраняются. Презентации, сделанные в PowerPoint (.pptx) или Keynote в формате необходимо конвертировать в .pdf внутренними инструментами PowerPoint с сохранением интерактивных элементов (видео).</p>
 <h3 id="pdf">Сжатие PDF<a class="headerlink" href="#pdf" title="Permanent link">&para;</a></h3>
 <p>Так как вес .pdf-файла зависит от кол-ва страниц, вес одной страницы (в среднем) не должен превышать 0.5 Мб. Сжать более объемный .pdf-файл можно с помощью онлайн-утилиты <a href="http://www.ilovepdf.com/compress_pdf">ilovepdf</a>. Уровень сжатия — Recommended Compression Level.</p>
-<p>Для проверки pdf-документов необходимо использовать командную утилиту <a href="https://s3.eu-central-1.amazonaws.com/softculture/exports/zip/test_pdf.zip">'test_pdf'</a> для Windows.</p>
-<div class="admonition warning">
-<p class="admonition-title">Warning</p>
-<p>Помимо 'test_images' и 'test_pdf' с июля 2017-го года введен скрипт <a href="https://s3.eu-central-1.amazonaws.com/softculture/exports/zip/test_structure.zip">'test_structure'</a>, однако руководство по нему еще не документировано. Работоспособность скрпита на Mac OS также не проверена.</p>
-</div>
+<p>Для проверки pdf-документов необходимо использовать командную утилиту <a href="https://s3.eu-central-1.amazonaws.com/softculture/exports/zip/test_pdf.zip">'test_pdf'</a> для Windows и Mac OS.</p>
+<hr />
                 
                   
                 

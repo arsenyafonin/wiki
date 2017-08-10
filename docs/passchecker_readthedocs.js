@@ -14,6 +14,7 @@ helplist.push("kbstrelka"); /*Саша*/
 helplist.push("hetmetro"); /*Олег*/
 helplist.push("milanmilan"); /*Милан*/
 helplist.push("masha"); /*Маша*/
+helplist.push("3770655"); /*Инна*/
 
 /*Проверка HTML5 Storage*/
 if (typeof(Storage) !== "undefined") {
@@ -24,7 +25,7 @@ if (typeof(Storage) !== "undefined") {
   } else {
     var login = 0;
   }
-  
+
 } else {
   var login = 0;
   var r = confirm("У вас очень старая версия браузера! Советуем обновиться");
